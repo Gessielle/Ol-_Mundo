@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.exe
+C:\Users\POSITIVO\Desktop\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.deps.json
+C:\Users\POSITIVO\Desktop\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.dll
+C:\Users\POSITIVO\Desktop\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.pdb
+C:\Users\POSITIVO\Desktop\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.dll
+C:\Users\POSITIVO\Desktop\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.pdb
+C:\Users\POSITIVO\Desktop\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.genruntimeconfig.cache
